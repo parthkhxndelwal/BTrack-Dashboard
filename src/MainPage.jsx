@@ -11,7 +11,6 @@ import Account from '/src/pages/dashboardSubPages/Account.jsx';
 import Attendance from '/src/pages/dashboardSubPages/Attendance.jsx';
 import Fees from '/src/pages/dashboardSubPages/Fees.jsx';
 import Home from '/src/pages/dashboardSubPages/Home.jsx';
-import Location from '/src/pages/dashboardSubPages/Location.jsx';
 import Schedule from '/src/pages/dashboardSubPages/Schedule.jsx';
 
 const subPages = {
@@ -19,7 +18,6 @@ const subPages = {
   Account,
   Attendance,
   Fees,
-  Location,
   Schedule
 };
 
